@@ -1,0 +1,9 @@
+{"dataset":
+[
+{"patterns":["Mumbai","Chennai","Delhi"],"label":"Indian Premier League"},
+{"patterns":["Sydney","Melbourne","Brisbane"],"label":"Big Bash League"},
+{"patterns":["Jamaica","Guyana","Barbados"],"label":"Caribbean Premier League"}
+]
+}
+
+

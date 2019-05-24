@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\textClassifier\\trainedModel\\2text_classifier.tf"
+all_model_checkpoint_paths: "G:\\textClassifier\\trainedModel\\2text_classifier.tf"
